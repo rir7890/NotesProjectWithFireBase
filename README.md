@@ -1,5 +1,8 @@
 # Notes Project With FireBase
 
+![image](https://github.com/rir7890/NotesProjectWithFireBase/assets/98277620/f4021196-04a5-4839-bed2-8d139c7ce1c4)
+
+
 Warning: Vite enforces using jsx syntax inside jsx/tsx files, so it will complain about that. Solution: rename `.js` files to `.jsx` :)
 
 Quick start:
